@@ -1,0 +1,15 @@
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.exe
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.deps.json
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.runtimeconfig.json
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.runtimeconfig.dev.json
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.dll
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\ref\Exercise3_Calculate_Price_Per_Meter.dll
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\bin\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.pdb
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.GeneratedMSBuildEditorConfig.editorconfig
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.AssemblyInfoInputs.cache
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.AssemblyInfo.cs
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.csproj.CoreCompileInputs.cache
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.dll
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\ref\Exercise3_Calculate_Price_Per_Meter.dll
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.pdb
+T:\COMP 100\Exercise3_Calculate_Price_Per_Meter\obj\Debug\net5.0\Exercise3_Calculate_Price_Per_Meter.genruntimeconfig.cache

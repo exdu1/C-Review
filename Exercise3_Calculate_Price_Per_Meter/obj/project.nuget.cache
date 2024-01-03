@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XouzJY+gdCbEZPjl34lULQrfo5YtFhxe8lezzwQmQKgOd7zfdtS3cYAYkYBt9+nWXG0DMMw/nS42vK7zVEIiag==",
+  "success": true,
+  "projectFilePath": "T:\\COMP 100\\Exercise3_Calculate_Price_Per_Meter\\Exercise3_Calculate_Price_Per_Meter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

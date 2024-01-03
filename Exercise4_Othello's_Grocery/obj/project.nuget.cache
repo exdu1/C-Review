@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2gQr4Oqm5XcQsguRIZnyWazEwGJnS/58VBJhnugSaWEzaVehotx57+hXCdKpOMrE+W54j0YIvIxv2wG1xDTNg==",
+  "success": true,
+  "projectFilePath": "T:\\COMP 100\\Exercise4_Othello's_Grocery\\Exercise4_Othello's_Grocery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIpqvPOIkNUIgazGwNsy1Io4DNyfgyX5rWVqN4RSKHmVU37D9iLCNLTeguZLo94fNp1UhStOb68Yv8ledzjN+Q==",
+  "success": true,
+  "projectFilePath": "T:\\COMP 100\\Exercise5_Gerard_The_Plumber\\Exercise5_Gerard_The_Plumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

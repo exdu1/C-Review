@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbzA3yREO83xX9yn7R0UOQ95QhmK2rRtfL3ZaQx9BV3bmjHfPuHjpy7cF7vZreVHTGBmmWi6O9x4VtlURPOrxg==",
+  "success": true,
+  "projectFilePath": "T:\\COMP 100\\Exercise2_Calculate_Milage\\Exercise2_Calculate_Milage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.exe
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.deps.json
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.runtimeconfig.json
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.runtimeconfig.dev.json
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.dll
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\ref\Exercise4_Othello's_Grocery.dll
+T:\COMP 100\Exercise4_Othello's_Grocery\bin\Debug\net5.0\Exercise4_Othello's_Grocery.pdb
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.GeneratedMSBuildEditorConfig.editorconfig
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.AssemblyInfoInputs.cache
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.AssemblyInfo.cs
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.csproj.CoreCompileInputs.cache
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.dll
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\ref\Exercise4_Othello's_Grocery.dll
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.pdb
+T:\COMP 100\Exercise4_Othello's_Grocery\obj\Debug\net5.0\Exercise4_Othello's_Grocery.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise3_Calculate_Price_Per_Meter/1.0.0": {
+        "runtime": {
+          "Exercise3_Calculate_Price_Per_Meter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise3_Calculate_Price_Per_Meter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

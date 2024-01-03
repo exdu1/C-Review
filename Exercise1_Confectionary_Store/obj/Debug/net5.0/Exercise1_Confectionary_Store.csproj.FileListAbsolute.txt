@@ -1,0 +1,16 @@
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.exe
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.deps.json
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.runtimeconfig.json
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.runtimeconfig.dev.json
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.dll
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\ref\Exercise1_Confectionary_Store.dll
+T:\COMP 100\Exercise1_Confectionary_Store\bin\Debug\net5.0\Exercise1_Confectionary_Store.pdb
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.csproj.AssemblyReference.cache
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.GeneratedMSBuildEditorConfig.editorconfig
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.AssemblyInfoInputs.cache
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.AssemblyInfo.cs
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.csproj.CoreCompileInputs.cache
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.dll
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\ref\Exercise1_Confectionary_Store.dll
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.pdb
+T:\COMP 100\Exercise1_Confectionary_Store\obj\Debug\net5.0\Exercise1_Confectionary_Store.genruntimeconfig.cache

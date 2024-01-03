@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8E+Wxp2bjQy6Fb8LRSfI7IyShSY+GoGl/Jmy5e08COTAwmSOY9bFK38a209ogk5jfzf9oEpfmNmnB7V5Uc+SHA==",
+  "success": true,
+  "projectFilePath": "T:\\COMP 100\\Exercise1_Confectionary_Store\\Exercise1_Confectionary_Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

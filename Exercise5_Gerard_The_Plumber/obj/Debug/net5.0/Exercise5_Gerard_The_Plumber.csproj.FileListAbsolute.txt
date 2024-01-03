@@ -1,0 +1,15 @@
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.exe
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.deps.json
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.runtimeconfig.json
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.runtimeconfig.dev.json
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.dll
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\ref\Exercise5_Gerard_The_Plumber.dll
+T:\COMP 100\Exercise5_Gerard_The_Plumber\bin\Debug\net5.0\Exercise5_Gerard_The_Plumber.pdb
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.GeneratedMSBuildEditorConfig.editorconfig
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.AssemblyInfoInputs.cache
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.AssemblyInfo.cs
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.csproj.CoreCompileInputs.cache
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.dll
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\ref\Exercise5_Gerard_The_Plumber.dll
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.pdb
+T:\COMP 100\Exercise5_Gerard_The_Plumber\obj\Debug\net5.0\Exercise5_Gerard_The_Plumber.genruntimeconfig.cache
